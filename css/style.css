@@ -1,0 +1,68 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #171a23;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    
+}
+.title, .paragraph {
+    color: #fff;
+}
+
+.paragraph {
+    position: relative;
+    margin: -10px 0 40px;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+
+.card-color {
+    width: 100%;
+    padding: 10rem 0 10rem;
+    text-align: center; 
+}
+
+#btn {
+    padding: 15px 40px;
+    border: 0;
+    border-radius: 20px;
+    background: #fff;
+    color: #000;
+    font-weight: bold;
+    box-sizing: border-box;
+    box-shadow: 0px 25px 50px -12px(rgba(0, 0, 0, 0.1));
+    margin-top: 20px;
+    font-size: 16px;
+    transition: all ease 0.3s;
+    cursor: pointer;
+}
+
+#btn:hover {
+    background: #000;
+    color: #fff;
+}
+
+span {
+    display: block;
+    color: silver;
+    margin-top: 30px;
+}
+
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 0.6s ease-in; 
+}
