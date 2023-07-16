@@ -1,8 +1,6 @@
-**Gerador de Cores (Palette) **
-
 ![Palette](screenshot.PNG)
 
-## Descrição do Projeto
+## Gerador de Cores (Palette)
 
 O Gerador de Cores (Palette) é uma aplicação web desenvolvida com HTML, CSS e JavaScript que permite aos usuários criar paletas de cores personalizadas de forma simples e interativa. Com esta aplicação, os usuários podem gerar combinações de cores, visualizar as cores em tempo real e copiar os códigos hexadecimais das cores geradas para uso em projetos de design, desenvolvimento web ou qualquer outra aplicação que requeira cores personalizadas.
 
