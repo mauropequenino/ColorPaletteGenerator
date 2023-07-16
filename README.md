@@ -15,7 +15,7 @@ O Gerador de Cores (Palette) é uma aplicação web desenvolvida com HTML, CSS e
 ## Como Utilizar
 
 1. Acesse o projeto através do link: [Link do Projeto](https://mauropequenino.github.io/ColorPaletteGenerator/)
-2. Na interface da aplicação, você encontrará um botão com a opção de "Gerar Cor Aleatória". Clique nele para obter uma cor aleatória e adicionar à paleta.
+2. Na interface da aplicação, você encontrará um botão com a opção de "Gerar nova paleta". Clique nele para obter uma cor aleatória e adicionar à paleta.
 3. A paleta de cores será exibida abaixo do gerador, mostrando todas as cores selecionadas ou geradas.
 6. Agora você pode usar as cores copiadas em seus projetos ou designs!
 
